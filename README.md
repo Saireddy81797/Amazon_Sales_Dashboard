@@ -57,8 +57,6 @@ Quarter (Q1–Q4)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6a443b2-79e0-4435-ae82-06768dfec87e" />
 
 
-(Insert screenshot here – the one you shared)
-
 🚀 Key Insights
 
 Men’s Shoes contribute the largest share (43.18% of YTD Sales).
